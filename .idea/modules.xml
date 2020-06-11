@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bishi/Bishi.iml" filepath="$PROJECT_DIR$/Bishi/Bishi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm.iml" filepath="$PROJECT_DIR$/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classification/classification.iml" filepath="$PROJECT_DIR$/classification/classification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jianzhiOffer/extension.iml" filepath="$PROJECT_DIR$/jianzhiOffer/extension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jianzhiOffer/jianzhiOffer.iml" filepath="$PROJECT_DIR$/jianzhiOffer/jianzhiOffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ship/ship.iml" filepath="$PROJECT_DIR$/ship/ship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuaiDi/shuaiDi.iml" filepath="$PROJECT_DIR$/shuaiDi/shuaiDi.iml" />
+    </modules>
+  </component>
+</project>
