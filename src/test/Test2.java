@@ -1,6 +1,7 @@
+package test;
+
 import java.util.ArrayDeque;
 import java.util.Deque;
-import java.util.Stack;
 
 /**
  * 反转链表
@@ -26,6 +27,15 @@ public class Test2 {
         }
     }
 
+    public static Node traverse3(Node node){
+        if (node.next ==null) return node;
+        Node next = node.next;
+        Node ans = traverse3(node.next);
+        next.next= node;
+        node.next = null;
+        return ans;
+    }
+
     public static Node traverse(Node node){
         if (node.next ==null ) return node;
         Node ans = traverse(node.next); // 递归
@@ -34,6 +44,7 @@ public class Test2 {
         node.next = null;
         return ans;
     }
+
 
     public static Node traverse2(Node node){
         if (node==null || node.next==null)

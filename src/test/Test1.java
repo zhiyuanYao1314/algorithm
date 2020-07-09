@@ -1,3 +1,4 @@
+package test;
 
 public class Test1 {
 
@@ -13,11 +14,10 @@ public class Test1 {
             // bfs 层序打印，z字形打印，统计每层数量；
             // dfs： pre 序列化 in 有序， post：树上dp； 注意构建返回值VO对象，写成
             // 图：
-                // 表示， 邻接表，邻接矩阵；
-                // 统一： node （value，nrighnors，edges） Edge （weight，from， to）
+                // 表示， 邻接表(稀疏)，邻接矩阵（密集）； node,(neighbours, edges) test.Edge (weight, from to )
+                // 统一： node （value，neighbors，edges） test.Edge （weight，from， to）
                 // bfs：queue， dfs：stack， set<node>
                 // 最小伸展树，单原点最短距离；node全部入priorityQueue，每次弹出最小的一个，然后更新；
-                //
     // 思想
         // 递归，
         // 回溯，
@@ -25,10 +25,10 @@ public class Test1 {
         // 分治
     // 高频算法和题目：
         // bit操作：
-        // 排序：
+        // 排序:
+        // bubbleSort space：1，  insertionSort, selectionSort，
+        // quickSort, heapSort，mergeSort
         // LRU： leaset recently used
         //
-
-
     }
 }

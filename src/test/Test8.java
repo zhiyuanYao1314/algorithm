@@ -1,3 +1,5 @@
+package test;
+
 import org.omg.CORBA.INTERNAL;
 
 import javax.xml.bind.annotation.XmlInlineBinaryData;
@@ -59,10 +61,10 @@ public class Test8 {
             }
             //
             if (count %3==0){
-                ret &=1;
+                ret |=(1<<i);
             }else
-                ret &=0;
-            ret<<=1;
+                ret |=0;
+//            ret<<=1;
         }
         return ret;
     }
@@ -74,7 +76,7 @@ public class Test8 {
         int ret=0;
         for (int i=0;i<32;i++){
             ret<<=1;
-            ret |= n & 1;
+            ret |= (n & 1);
             n>>>=1;
         }
         return ret;

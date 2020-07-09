@@ -1,4 +1,4 @@
-import org.omg.CORBA.INTERNAL;
+package test;
 
 import java.util.*;
 
@@ -6,8 +6,8 @@ import java.util.*;
  * 图的表达：
  *  邻接矩阵，邻接表， 其他表达（from, to, weight)
  *  统一表示：
- *      Node (int value, List<node> neighbors, List<Edge> edges)
- *      Edge (int weight, Node from, Node to);
+ *      test.Node (int value, List<node> neighbors, List<test.Edge> edges)
+ *      test.Edge (int weight, test.Node from, test.Node to);
  *
  * 图的dfs, bfs,
  * 图的有环：dfs（没想清楚？），拓扑排序；
