@@ -6,6 +6,7 @@ class Test {
         TreeNode right;
         TreeNode left;
     }
+
     public boolean isCompleteTree(TreeNode node) {
         if (node==null) return true;
         Deque<TreeNode> q = new ArrayDeque();
