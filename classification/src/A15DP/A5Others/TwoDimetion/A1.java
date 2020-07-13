@@ -1,4 +1,4 @@
-package A15DP.A101DP;
+package A15DP.A5Others.TwoDimetion;
 
 /**
  * Author:yaozhiyuan0117@163.com
@@ -16,6 +16,10 @@ package A15DP.A101DP;
  * Example 2:
  * Input: [1, 2, 3, 5]
  * Output: false
+ *
+ *
+ * 解法： 转化成换零钱
+ *
  */
 public class A1 {
     public static void main(String[] args) {

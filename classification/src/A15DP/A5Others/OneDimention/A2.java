@@ -1,6 +1,4 @@
-package A15DP.A2UnboundedKnapsack;
-
-import java.util.Arrays;
+package A15DP.A5Others.OneDimention;
 
 /**
  * Author:yaozhiyuan0117@163.com

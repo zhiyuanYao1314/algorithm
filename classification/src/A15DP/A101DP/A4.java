@@ -16,6 +16,8 @@ public class A4 {
     public static void main(String[] args) {
 
     }
+
+
     /**
      * 转换： 选择一些子元素，使得其和等于sum的一半；
      */

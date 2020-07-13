@@ -36,4 +36,27 @@ public class A2 {
         }
         return sum;
     }
+
+    /**
+     * 可以跳1-n层；
+     *多少种条法；
+     */
+    public int numWays2(int n) {
+        // dp[n  = 求和 dp[i i(1..n-1);
+        // 1:1
+        // 2:1+1 =2;
+        // 3:1 + 2 +1 = 4;
+        if(n<=2){
+            return n;
+        }
+        int[] dp = new int[n+1];
+        for (int i=3;i<=n;i++){
+            dp[i] =1;
+            // 这个表达式可以优化为： dp[i]= dp[i-1]*2-1; 因为dp[i-1]的前面的和等于dp[i-1]-1;
+            for (int j=1;j<i;j++){
+                dp[i] += dp[j];
+            }
+        }
+        return dp[n];
+    }
 }

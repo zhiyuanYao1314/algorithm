@@ -7,6 +7,8 @@ package A15DP.A2UnboundedKnapsack;
 public class A00 {
 
     /**
+     * 无限背包和换硬币
+     *
      * 1. 无限背包
      * 2. 给定一个正整数 n，将其拆分为至少两个正整数的和，并使这些整数的乘积最大化。
      *      dp[n] = for (int j) max (j*(n-j)dp[j][n-j]) time : nn
