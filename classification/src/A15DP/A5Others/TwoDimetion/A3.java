@@ -1,11 +1,30 @@
-package A15DP;
+package A15DP.A5Others.TwoDimetion;
 import java.util.List;
 /**
  * Author:yaozhiyuan0117@163.com
  * Time:2020/5/5 17:49
  * 三角形最小路径和
  */
-public class A2 {
+public class A3 {
+
+
+    /**
+     * 第二次写 递归方法
+     */
+    public int minimumTotal3(List<List<Integer>> triangle) {
+        int rows = triangle.size();
+        int maxColoms = triangle.get(rows-1).size();
+        // 初始化一行为0的值；
+        int[] maxs = new int[maxColoms+1];
+
+        for (int i=rows-1;i>=0;i--){ // 每一行
+            int cols = triangle.get(i).size();
+            for (int j=0;j<cols;j++){ // 每一列
+                maxs[j] = Math.max(maxs[j],maxs[j+1])+triangle.get(i).get(j);
+            }
+        }
+        return maxs[0];
+    }
 
     /**
      * 迭代：自底向上 每个元素取下面元素的最小值；
@@ -20,8 +39,8 @@ public class A2 {
             List<Integer> row = triangle.get(i);
             for (int j=0;j<row.size();j++){
                 ans[j] = Math.min(tmp[j],tmp[j+1])+row.get(j);
-                tmp = ans;
             }
+            tmp = ans;
         }
         return tmp[0];
     }

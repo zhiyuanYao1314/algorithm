@@ -1,4 +1,4 @@
-package A15DP;
+package A15DP.A5Others.OneDimention;
 
 import java.util.Arrays;
 
@@ -14,9 +14,9 @@ import java.util.Arrays;
  * 通行证允许数天无限制的旅行。 例如，如果我们在第 2 天获得一张为期 7 天的通行证，那么我们可以连着旅行 7 天：第 2 天、第 3 天、第 4 天、第 5 天、第 6 天、第 7 天和第 8 天。
  * 返回你想要完成在给定的列表 days 中列出的每一天的旅行所需要的最低消费。
  */
-public class A1 {
+public class A3 {
     public static void main(String[] args) {
-        A1 a1 = new A1();
+        A3 a1 = new A3();
         int[]days = new int[]{1,4,6,7,8,20};
         int[]costs = new int[]{2,7,15};
         a1.mincostTickets(days, costs);

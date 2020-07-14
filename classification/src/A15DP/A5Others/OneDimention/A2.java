@@ -1,53 +1,61 @@
 package A15DP.A5Others.OneDimention;
 
+import java.util.Arrays;
+import java.util.HashMap;
+
 /**
  * Author:yaozhiyuan0117@163.com
- * Time:2020/4/28 12:53
- * 给定一个正整数 n，将其拆分为至少两个正整数的和，并使这些整数的乘积最大化。
- * 返回你可以获得的最大乘积。
+ * Time:2020/5/6 12:59
+ * 823. 带因子的二叉树
+ *给出一个含有不重复整数元素的数组，每个整数均大于 1。
  *
- * 输入: 10
- * 输出: 36
- * 解释: 10 = 3 + 3 + 4, 3 × 3 × 4 = 36。
+ * 我们用这些整数来构建二叉树，每个整数可以使用任意次数。
+ *
+ * 其中：每个非叶结点的值应等于它的两个子结点的值的乘积。
+ *
+ * 满足条件的二叉树一共有多少个？返回的结果应模除 10 ** 9 + 7。
+ *
+ *
+ * 解法：
+ *  排序后，每一个元素，依赖于前面几个元素的值，具有传递性，所以，可以进行dp；
+ *
  */
 public class A2 {
     public static void main(String[] args) {
-        A2 a1 = new A2();
-        int i = a1.integerBreak1(5);
+        A2 a4 = new A2();
+//        int[] ints = {2,4};
+        int[] ints = {2,4,5,10,20};
+        // int[] ints = {2,3,5,6,15,30}; //1 1 1 3
+        int i = a4.numFactoredBinaryTrees(ints);
         System.out.println(i);
-
     }
 
-    /**
-     * 1. dp
-     */
-    public int integerBreak1(int n) {
-        // dp[n] = max(dp[n-i]*i, (n-i)*i), {i 1..n-1}
-        // 1..0 2..1 3..2 4..4
-        if (n<=3) return n-1;
-        int[] dp = new int[n+1];
-        for (int i=0;i<4;i++){
-            dp[i] = i-1;
+    public int numFactoredBinaryTrees(int[] A) {
+        Arrays.sort(A);
+        HashMap<Integer, Integer > loc = new HashMap<>();
+        for (int i=0;i<A.length;i++){
+            loc.put(A[i], i);
         }
-        for (int i=4;i<n+1;i++){
-            for (int j=1;j<i;j++){
-                dp[i] = Math.max(dp[i],  Math.max(dp[i-j]*j, (i-j)*j));
+        // 以当前元素为根节点的元素树共有多少种；
+        HashMap<Integer,Long> ans = new HashMap();
+        for (int i=0;i<A.length;i++){
+            ans.put(A[i], 1L);
+        }
+        for (int i=0;i<A.length;i++){
+            Long sum =1L;
+            for (int j=0;j<i;j++){ //A[j]第一个因子； 4 2
+                if (A[i]%A[j]!=0) continue;
+                int other = A[i]/A[j];
+                if (loc.get(other)==null)
+                    continue;
+                sum += ans.get(A[j])*ans.get(other);
+                ans.put(A[i], sum);
             }
         }
-        return dp[n];
-    }
-
-    /**
-     * 2. 数学规律：
-     *  n----> 尽量拆成3的倍数和2的倍数
-     */
-    public int integerBreak(int n) {
-        // 1..0 2..1 3..2
-        // 4..4; 5..6; 6..9; 7;12
-        if (n<=3) return n-1;
-        int times3 = n/3;
-        if (n%3==1)times3--;
-        int times2 = (n-times3*3)/2;
-        return (int) (Math.pow(3,times3)*Math.pow(2,times2));
+        Long sum=0L;
+        for (Long e:ans.values()){
+            sum +=e;
+        }
+        return (int)(sum%(1_00000000_7));
     }
 }
