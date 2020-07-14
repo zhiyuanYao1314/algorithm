@@ -21,7 +21,26 @@
   <component name="ChangeListManager">
     <list default="true" id="c3e775ac-7fc7-4e86-930e-da2b60bc755e" name="Default Changelist" comment="add summary in tuya Mac">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification/src/A15DP/A0.java" beforeDir="false" afterPath="$PROJECT_DIR$/classification/src/A15DP/A0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/byted/Main37.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/byted/Main37.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/byted/Main44.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/byted/Main45.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/byted/Main45.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/byted/Main46.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/byted/Main46.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/byted/Main47.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/byted/Main47.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/byted/Main48.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/byted/Main48.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/others/Main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/others/Main3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classification/A15DP/A1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classification/A15DP/A2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classification/A15DP/A4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classification/A15DP/A5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classification/A15DP/A6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classification/A15DP/A7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byted/Main0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byted/Main37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main37.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byted/Main44.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byted/Main45.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main45.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byted/Main46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main46.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byted/Main47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main47.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byted/Main48.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main48.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +53,7 @@
     </layout>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main48">
     <configuration name="A3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A15DP.A101DP.A3" />
       <module name="classification" />
@@ -48,8 +67,56 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="byted.Main46" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="byted.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="byted.Main47" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="byted.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="byted.Main48" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="byted.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.A3" />
+      <item itemvalue="Application.Main46" />
+      <item itemvalue="Application.Main47" />
+      <item itemvalue="Application.Main48" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main48" />
+        <item itemvalue="Application.Main47" />
+        <item itemvalue="Application.Main46" />
         <item itemvalue="Application.A3" />
       </list>
     </recent_temporary>
@@ -89,22 +156,30 @@
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="443" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.801@0.23.1440.801" timestamp="1594694821602" />
-    <state width="1225" height="245" key="GridCell.Tab.0.bottom" timestamp="1594693381283">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state width="1225" height="239" key="GridCell.Tab.0.bottom" timestamp="1594710759972">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
+    <state width="1225" height="239" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1594710759972" />
     <state width="1225" height="245" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1594693381283" />
-    <state width="1225" height="245" key="GridCell.Tab.0.center" timestamp="1594693381282">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state width="1225" height="145" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1594708314426" />
+    <state width="1225" height="239" key="GridCell.Tab.0.center" timestamp="1594710759971">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
+    <state width="1225" height="239" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1594710759971" />
     <state width="1225" height="245" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1594693381282" />
-    <state width="1225" height="245" key="GridCell.Tab.0.left" timestamp="1594693381281">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state width="1225" height="145" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1594708314425" />
+    <state width="1225" height="239" key="GridCell.Tab.0.left" timestamp="1594710759971">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
+    <state width="1225" height="239" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1594710759971" />
     <state width="1225" height="245" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1594693381281" />
-    <state width="1225" height="245" key="GridCell.Tab.0.right" timestamp="1594693381282">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state width="1225" height="145" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1594708314425" />
+    <state width="1225" height="239" key="GridCell.Tab.0.right" timestamp="1594710759971">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
+    <state width="1225" height="239" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1594710759971" />
     <state width="1225" height="245" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1594693381282" />
+    <state width="1225" height="145" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1594708314426" />
     <state x="278" y="307" key="Vcs.Push.Dialog.v2" timestamp="1594690774775">
       <screen x="0" y="23" width="1440" height="804" />
     </state>

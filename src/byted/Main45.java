@@ -2,8 +2,6 @@ package byted;
 
 /**
  *  41 缺失的第一个正数
- *
- *  修改bug 修的有点乱了，需要重新捋一下逻辑！
  */
 public class Main45 {
 
@@ -13,40 +11,28 @@ public class Main45 {
         System.out.println(k);
 
     }
-
-    // [3,4,-1,1]
-    public int firstMissingPositive(int[] nums) {
-        if (nums==null || nums.length==0)
+    // 0---n-1,  1--n-1
+    // 都在 就返回n；
+    public int firstMissingPositive(int[] nums){
+        if (nums==null || nums.length==0){
             return 1;
+        }
         int n= nums.length;
-        int i=0;
-        boolean hasN =false;
-        while (i<nums.length){
-            if (nums[i]<n && nums[i]>0 && i != nums[i]){
-                if (nums[i]== nums[nums[i]]){
-                    i++;
-                    continue;
-                }
-                swap(nums, i, nums[i]);
-            }else{
-                if (nums[i]==n){
-                    hasN = true;
-                }
-                i++;
+        //1. 每个元素交换到自己对应的下标的位置上
+        for (int i=0;i<n;i++){
+            while (nums[i]>=1 && nums[i]<=n-1 && nums[i] != nums[nums[i]]){
+                int tmp = nums[nums[i]];
+                nums[nums[i]] = nums[i];
+                nums[i] = tmp;
             }
         }
-        for (int j=1;j<nums.length;j++){
-            if (j!=nums[j]){
-                return j;
+        // 2. 遍历查看哪个元素丢失了
+        for (int i=1;i<n;i++){
+            if (i !=nums[i]){
+                return i;
             }
         }
-        return hasN?n+1:n;
-    }
-
-    private void swap(int[] nums, int i, int j) {
-        int tmp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = tmp;
+        return nums[0] == n?n+1:n;
     }
 
 }

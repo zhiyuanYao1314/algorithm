@@ -8,11 +8,10 @@ public class Main0 {
      *  2. 在判断 是否在有序的那一段里面，如果不在， 就在另外一半；
      *  3.
      *
-     * 明天从25开始
-     * 到 有想法了
      *
      *
      * 37 最大子序和
+     *  记录一个连续和 和 max， 如果连续和<=0，则没必要新加了；
      *
      * 42/460 LRU算法 两个hashMap, 一个存储key-Node, 第二个存储frequency-node链表,
      *  整个put和get的过程实际包括： deleteNode, addToNextNode， addNewNode 都是链表操作，时间复杂度1；
@@ -20,7 +19,6 @@ public class Main0 {
      * 43/128 未排序的数组的连续子序列；要求n
      *      以n开始的连续点，
      *      节约：如果存在n-1，就不需要计算！
-     *
      *
      */
 
