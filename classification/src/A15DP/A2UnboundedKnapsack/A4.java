@@ -11,7 +11,7 @@ import java.util.Arrays;
  *零钱兑换
  * 给定不同面额的硬币 coins 和一个总金额 amount。
  * 编写一个函数来计算可以凑成总金额所需的最少的硬币个数。
- * 如果没有任何一种硬币组合能组成总金额，返回 -1。
+ * 如果没有任何一种硬币组合能组成总金额，返回-1。
  */
 public class A4 {
 
@@ -41,6 +41,20 @@ public class A4 {
         for (int i=0;i<coins.length;i++){
             for (int j=coins[i];j<=amount;j++){
                 dp[j] = dp[j]+ dp[j-coins[i]];//
+            }
+        }
+        return dp[amount];
+    }
+
+    // dp[i] = min(dp[i],dp[i-coins[j]);
+    // 初始化： dp[0] = 1, amount+1;
+    public int coinChange3(int[] coins, int amount) {
+        int[] dp = new int[amount+1]; // dp[i] 表示考虑前j项的时候，
+        Arrays.fill(dp, amount+1);
+        dp[0] =1;
+        for(int j=0;j<coins.length;j++){
+            for(int i=coins[j];i<amount+1;i++){
+                dp[i] = Math.min(dp[i], dp[i-coins[j]]);
             }
         }
         return dp[amount];

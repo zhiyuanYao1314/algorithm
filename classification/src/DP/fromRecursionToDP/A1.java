@@ -3,9 +3,7 @@ package DP.fromRecursionToDP;
 /**
  * Author:yaozhiyuan0117@163.com
  * Time:2020/6/3 10:58
- *
  * 汉诺塔问题
- *
  * 打印移动全过程
  */
 public class A1 {

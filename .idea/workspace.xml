@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/others/Main3.java" line="10" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,6 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3e775ac-7fc7-4e86-930e-da2b60bc755e" name="Default Changelist" comment="add summary in tuya Mac">
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/classification/src/A15DP/A0.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/classification/src/A15DP/A101DP/A1.java" beforeDir="false" afterPath="$PROJECT_DIR$/classification/src/A15DP/A5Others/TwoDimetion/A1.java" afterDir="false" />
@@ -41,7 +45,38 @@
       <change beforePath="$PROJECT_DIR$/out/production/classification/DP/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classification/DP/Main1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classification/DP/Main4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classification/DP/Main4.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classification/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classification/Test.class" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/preInAdvance/src/兴页数字金融.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preInAdvance/src/华为.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/byted/泛型Andlanmbda/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/byted/泛型Andlanmbda/IFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/byted/泛型Andlanmbda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/others/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/others/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classification/src/A15DP/A2UnboundedKnapsack/A2.java" beforeDir="false" afterPath="$PROJECT_DIR$/classification/src/A15DP/A2UnboundedKnapsack/A2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classification/src/A15DP/A2UnboundedKnapsack/A4.java" beforeDir="false" afterPath="$PROJECT_DIR$/classification/src/A15DP/A2UnboundedKnapsack/A4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classification/src/DP/fromRecursionToDP/A1.java" beforeDir="false" afterPath="$PROJECT_DIR$/classification/src/DP/fromRecursionToDP/A1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship/ship.iml" beforeDir="false" afterPath="$PROJECT_DIR$/preInAdvance/preInAdvance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship/src/Factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship/src/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship/src/Main3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/others/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship/src/Person1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/others/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship/src/Person2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship/src/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shuaiDi/shuaiDi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shuaiDi/src/Xiecheng/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shuaiDi/src/recursion/A1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byted/Main46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main46.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byted/Main47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main47.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byted/Main49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main49.java" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +96,57 @@
     <expand />
     <select />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1797749113">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="49" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="49" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3847" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3847" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/preInAdvance/src/华为.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="514">
+              <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -71,11 +157,83 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>System</find>
+      <find>sys</find>
+      <find>public</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/preInAdvance/src/兴页数字金融.java" />
+        <option value="$PROJECT_DIR$/src/others/Main.java" />
+        <option value="$PROJECT_DIR$/src/byted/Main46.java" />
+        <option value="$PROJECT_DIR$/src/others/Main1.java" />
+        <option value="$PROJECT_DIR$/src/others/Main2.java" />
+        <option value="$PROJECT_DIR$/src/others/Main3.java" />
+        <option value="$PROJECT_DIR$/src/byted/Main49.java" />
+        <option value="$PROJECT_DIR$/src/byted/泛型Andlanmbda/IFunction.java" />
+        <option value="$PROJECT_DIR$/src/byted/泛型Andlanmbda/Container.java" />
+        <option value="$PROJECT_DIR$/src/byted/泛型Andlanmbda/Main.java" />
+        <option value="$PROJECT_DIR$/src/byted/Main47.java" />
+        <option value="$PROJECT_DIR$/classification/src/DP/fromRecursionToDP/A1.java" />
+        <option value="$PROJECT_DIR$/classification/src/A15DP/A2UnboundedKnapsack/A2.java" />
+        <option value="$PROJECT_DIR$/classification/src/A15DP/A2UnboundedKnapsack/A4.java" />
+        <option value="$PROJECT_DIR$/preInAdvance/src/华为.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="407" />
+    <option name="y" value="60" />
+    <option name="width" value="1395" />
+    <option name="height" value="939" />
+  </component>
   <component name="ProjectId" id="1dA6ONmhkTjIP1h8bm4GYTuKlJd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="preInAdvance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="preInAdvance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -88,8 +246,8 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/software/idea/algorithmWorkspace/algorithm/src/Test.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591191746570" />
-    <property name="last_opened_file_path" value="$USER_HOME$/workspace4/test-parent" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594570681820" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -104,6 +262,7 @@
       <recent name="A8TreeDFS" />
     </key>
   </component>
+<<<<<<< Updated upstream
   <component name="RunManager" selected="Application.Test">
     <configuration name="A4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A15DP.A5Others.OneDimention.A4" />
@@ -114,16 +273,39 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+=======
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main3">
+    <configuration name="兴页数字金融" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="兴页数字金融" />
+      <module name="preInAdvance" />
+>>>>>>> Stashed changes
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="Main39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="byted.Main39" />
+=======
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="others.Main1" />
+>>>>>>> Stashed changes
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="byted.*" />
+          <option name="PATTERN" value="others.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +313,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DP.Main4" />
       <module name="classification" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DP.*" />
+=======
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="others.Main3" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="others.*" />
+>>>>>>> Stashed changes
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,6 +358,7 @@
     <list>
       <item itemvalue="Application.Main39" />
       <item itemvalue="Application.Main45" />
+<<<<<<< Updated upstream
       <item itemvalue="Application.Main4" />
       <item itemvalue="Application.A4" />
       <item itemvalue="Application.Test" />
@@ -176,6 +368,17 @@
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.A4" />
         <item itemvalue="Application.Main4" />
+=======
+      <item itemvalue="Application.兴页数字金融" />
+      <item itemvalue="Application.Main1" />
+      <item itemvalue="Application.Main3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main3" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.兴页数字金融" />
+>>>>>>> Stashed changes
         <item itemvalue="Application.Main45" />
         <item itemvalue="Application.Main39" />
       </list>
@@ -226,9 +429,18 @@
       <workItem from="1592620813912" duration="11333000" />
       <workItem from="1593424288975" duration="4636000" />
       <workItem from="1594253486589" duration="10672000" />
+<<<<<<< Updated upstream
       <workItem from="1594269966582" duration="57442000" />
       <workItem from="1594621934856" duration="35000" />
       <workItem from="1594622051650" duration="13354000" />
+=======
+      <workItem from="1594269966582" duration="54182000" />
+      <workItem from="1594481234206" duration="1120000" />
+      <workItem from="1594517760967" duration="44000" />
+      <workItem from="1594530062117" duration="23666000" />
+      <workItem from="1594602374828" duration="16000" />
+      <workItem from="1594686247355" duration="34000" />
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="add summary in tuya Mac">
       <created>1594259664628</created>
@@ -254,6 +466,9 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24880000" />
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -263,20 +478,64 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
+  <component name="ToolWindowManager">
+    <frame x="326" y="48" width="1116" height="751" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2755682" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.09929078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3288719" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="leetcode" order="4" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32871014" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+    </layout>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add summary in tuya Mac" />
@@ -439,6 +698,295 @@
     <state x="474" y="179" width="670" height="676" key="search.everywhere.popup/0.23.1440.831@0.23.1440.831" timestamp="1592384253294" />
     <state x="474" y="179" width="670" height="676" key="search.everywhere.popup/0.23.1440.832@0.23.1440.832" timestamp="1592375329157" />
     <state x="474" y="179" width="670" height="677" key="search.everywhere.popup/0.23.1440.833@0.23.1440.833" timestamp="1592381805953" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/preInAdvance/preInAdvance.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preInAdvance/src/兴页数字金融.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-112">
+          <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/byted/Main46.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="52" column="14" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/src/sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="77" column="23" selection-start-line="77" selection-start-column="23" selection-end-line="77" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/byted/Main49.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/byted/Main48.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/byted/Main0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/byted/Main50.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../jdk1.8/jdk_install/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="397" column="10" selection-start-line="397" selection-start-column="4" selection-end-line="397" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/byted/泛型Andlanmbda/IFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/byted/泛型Andlanmbda/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/byted/泛型Andlanmbda/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../jdk1.8/jdk_install/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="113" column="13" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ship/src/Factory.java" />
+    <entry file="file://$PROJECT_DIR$/ship/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/ship/src/Main2.java" />
+    <entry file="file://$PROJECT_DIR$/ship/src/Main3.java" />
+    <entry file="file://$PROJECT_DIR$/ship/src/Person.java" />
+    <entry file="file://$PROJECT_DIR$/ship/src/Person1.java" />
+    <entry file="file://$PROJECT_DIR$/ship/src/Person2.java" />
+    <entry file="file://$PROJECT_DIR$/ship/src/Singleton.java" />
+    <entry file="file://$PROJECT_DIR$/src/byted/Main47.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/src/DP/fromRecursionToDP/A1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/src/A15DP/A1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/src/A15DP/A2UnboundedKnapsack/A00.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/src/A15DP/A2UnboundedKnapsack/A1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/src/A15DP/A2UnboundedKnapsack/A2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/src/A15DP/A2UnboundedKnapsack/A3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/src/A15DP/A2UnboundedKnapsack/A4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/src/A15DP/A3Fibonacci/A0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/src/A15DP/A3Fibonacci/A1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/src/A15DP/A3Fibonacci/A2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/src/A15DP/A3Fibonacci/A3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/src/A15DP/A3Fibonacci/A4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="37" column="8" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/src/A15DP/A4PalindromicSubsequence/A1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/src/A15DP/A4PalindromicSubsequence/A2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/src/A15DP/A4PalindromicSubsequence/A3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/src/A15DP/A22Multinapack/A0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="34" column="75" lean-forward="true" selection-start-line="34" selection-start-column="75" selection-end-line="34" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/src/A15DP/A22Multinapack/A1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/src/A15DP/A101DP/A1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/src/A15DP/A101DP/A2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/src/A15DP/A101DP/A3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification/src/A15DP/A2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-645">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preInAdvance/src/华为.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
