@@ -20,15 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3e775ac-7fc7-4e86-930e-da2b60bc755e" name="Default Changelist" comment="add summary in tuya Mac">
-      <change afterPath="$PROJECT_DIR$/classification/src/A15DP/A5Others/OneDimention/A1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification/src/A15DP/A1.java" beforeDir="false" afterPath="$PROJECT_DIR$/classification/src/A15DP/A5Others/OneDimention/A33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification/src/A15DP/A2.java" beforeDir="false" afterPath="$PROJECT_DIR$/classification/src/A15DP/A5Others/TwoDimetion/A4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification/src/A15DP/A4.java" beforeDir="false" afterPath="$PROJECT_DIR$/classification/src/A15DP/A5Others/TwoDimetion/A55.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification/src/A15DP/A5.java" beforeDir="false" afterPath="$PROJECT_DIR$/classification/src/A15DP/A5Others/TwoDimetion/A6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification/src/A15DP/A5Others/OneDimention/A2.java" beforeDir="false" afterPath="$PROJECT_DIR$/classification/src/A15DP/A5Others/OneDimention/A2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification/src/A15DP/A5Others/OneDimention/A4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification/src/A15DP/A6.java" beforeDir="false" afterPath="$PROJECT_DIR$/classification/src/A15DP/A6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classification/src/A15DP/A0.java" beforeDir="false" afterPath="$PROJECT_DIR$/classification/src/A15DP/A0.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
