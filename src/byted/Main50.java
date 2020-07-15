@@ -11,7 +11,7 @@ package byted;
  */
 public class Main50 {
     public static void main(String[] args) {
-        int n = findPeakElement(new int[]{2});
+        int n = findPeakElement2(new int[]{2,3,5,7,2});
         System.out.println(n);
     }
     public static int findPeakElement(int[] nums) {
@@ -33,6 +33,31 @@ public class Main50 {
                 return i;
         }
         return -1;
+    }
+
+    public static int findPeakElement2(int[] nums) {
+        if (nums==null || nums.length==0 ){
+            return -1;
+        }
+        if (nums.length==1){
+            return nums[0];
+        }
+        int left = 0;
+        int right = nums.length-1;
+        int mid=-1;
+        while (left<=right){// l = r =
+            mid = left+ ((right-left)>>1);
+
+            if ( (mid-1<0 || nums[mid]> nums[mid-1])
+                && (mid+1>=nums.length || nums[mid]>nums[mid+1]))
+                return mid;
+            if (mid-1>=0 && nums[mid]<nums[mid-1]){
+                right = mid-1;
+            }else {
+                left = mid+1;
+            }
+        }
+        return mid;
     }
 
 }
