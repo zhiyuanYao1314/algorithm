@@ -2,6 +2,7 @@ package byted;
 
 /**
  * 503 下一个更大元素II
+ * 下一个更大的元素；
  */
 public class Main61 {
 

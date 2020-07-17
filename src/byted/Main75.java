@@ -1,5 +1,9 @@
 package byted;
 
+/**
+ * 无限背包 凑够target目标的数量：
+ *
+ */
 public class Main75 {
     public static void main(String[] args) {
         int s = count(new int[]{1,2}, 4);
