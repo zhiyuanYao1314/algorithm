@@ -20,35 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3e775ac-7fc7-4e86-930e-da2b60bc755e" name="Default Changelist" comment="add summary in tuya Mac">
+      <change afterPath="$PROJECT_DIR$/src/byted/Main76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/byted/Main77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/byted/Main78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/byted/Main79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/byted/Main80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/byted/Main81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/byted/Main82.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/byted/Main83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/byted/Main84.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/byted/Main85.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/byted/Main86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/byted/Main87.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/byted/Main61.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/byted/Main61.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/byted/Main62.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/byted/Main62.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/byted/Main63.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/byted/Main63.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/byted/Main64.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/byted/Main64.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/byted/Main65.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/byted/Main65.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/byted/Main66.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/byted/Main66.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/byted/Main67.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/byted/Main67.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/byted/Main68.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/byted/Main68.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/byted/Main71.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/byted/Main71.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/byted/Main72.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/byted/Main72.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/byted/Main75.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/byted/Main75.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/byted/main69.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/byted/main69.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/byted/main70.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/byted/main70.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/byted/Main0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/byted/Main61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main61.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/byted/Main62.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main62.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/byted/Main63.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main63.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/byted/Main64.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main64.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/byted/Main65.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main65.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/byted/Main66.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main66.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/byted/Main67.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main67.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/byted/Main68.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main68.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/byted/Main71.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main71.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/byted/Main72.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main72.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/byted/Main74.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main74.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/byted/Main75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main75.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/byted/main69.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/main69.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/byted/main70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/main70.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,7 +195,7 @@
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="443" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.801@0.23.1440.801" timestamp="1594694821602" />
-    <state width="1225" height="139" key="GridCell.Tab.0.bottom" timestamp="1594982083035">
+    <state width="1225" height="326" key="GridCell.Tab.0.bottom" timestamp="1594982526550">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state width="1225" height="197" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1594714709933" />
@@ -219,10 +204,10 @@
     <state width="1225" height="234" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1594806014736" />
     <state width="1225" height="159" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1594807053412" />
     <state width="1225" height="16" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1594975811692" />
-    <state width="1225" height="139" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1594982083035" />
+    <state width="1225" height="326" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1594982526550" />
     <state width="1225" height="16" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1594979488548" />
     <state width="1225" height="199" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1594970682033" />
-    <state width="1225" height="139" key="GridCell.Tab.0.center" timestamp="1594982083034">
+    <state width="1225" height="326" key="GridCell.Tab.0.center" timestamp="1594982526549">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state width="1225" height="197" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1594714709932" />
@@ -231,10 +216,10 @@
     <state width="1225" height="234" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1594806014735" />
     <state width="1225" height="159" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1594807053411" />
     <state width="1225" height="16" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1594975811692" />
-    <state width="1225" height="139" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1594982083034" />
+    <state width="1225" height="326" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1594982526549" />
     <state width="1225" height="16" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1594979488547" />
     <state width="1225" height="199" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1594970682032" />
-    <state width="1225" height="139" key="GridCell.Tab.0.left" timestamp="1594982083032">
+    <state width="1225" height="326" key="GridCell.Tab.0.left" timestamp="1594982526549">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state width="1225" height="197" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1594714709931" />
@@ -243,10 +228,10 @@
     <state width="1225" height="234" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1594806014735" />
     <state width="1225" height="159" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1594807053410" />
     <state width="1225" height="16" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1594975811691" />
-    <state width="1225" height="139" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1594982083032" />
+    <state width="1225" height="326" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1594982526549" />
     <state width="1225" height="16" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1594979488546" />
     <state width="1225" height="199" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1594970682031" />
-    <state width="1225" height="139" key="GridCell.Tab.0.right" timestamp="1594982083035">
+    <state width="1225" height="326" key="GridCell.Tab.0.right" timestamp="1594982526549">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state width="1225" height="197" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1594714709932" />
@@ -255,7 +240,7 @@
     <state width="1225" height="234" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1594806014736" />
     <state width="1225" height="159" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1594807053411" />
     <state width="1225" height="16" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1594975811692" />
-    <state width="1225" height="139" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1594982083035" />
+    <state width="1225" height="326" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1594982526549" />
     <state width="1225" height="16" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1594979488547" />
     <state width="1225" height="199" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1594970682032" />
     <state x="278" y="307" key="Vcs.Push.Dialog.v2" timestamp="1594690774775">
