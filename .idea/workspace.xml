@@ -20,9 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3e775ac-7fc7-4e86-930e-da2b60bc755e" name="Default Changelist" comment="add summary in tuya Mac">
+      <change afterPath="$PROJECT_DIR$/preInAdvance/src/Shopee/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preInAdvance/src/跟谁学/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/others/Main4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/byted/Main0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/byted/Main74.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main74.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preInAdvance/preInAdvance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/preInAdvance/preInAdvance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main56.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +47,20 @@
       <scroll-view-position x="0" y="0" />
     </layout>
   </component>
+  <component name="ProjectId" id="1f53VqWkpeTYb3DZ2C5rwjht5K9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594773827213" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager" selected="Application.Main72">
     <configuration name="Main65" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -152,12 +163,13 @@
       <option name="presentableId" value="Default" />
       <updated>1594773756431</updated>
       <workItem from="1594773757611" duration="71000" />
+      <workItem from="1595494156255" duration="3287000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
