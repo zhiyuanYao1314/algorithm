@@ -20,59 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3e775ac-7fc7-4e86-930e-da2b60bc755e" name="Default Changelist" comment="add summary in tuya Mac">
-      <change afterPath="$PROJECT_DIR$/src/others/Main7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/others/Main8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/others/Main10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/others/Main9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/byted/Main48.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/byted/Main48.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/byted/Main59.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/byted/Main59.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/byted/Main65.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/byted/Main65.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/others/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/others/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classification/DP/fromRecursionToDP/A2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classification/DP/fromRecursionToDP/A2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/others/Main6$TrieNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/others/Main6$TrieNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/others/Main7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/others/Main7.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/preInAdvance/src/Shopee/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/preInAdvance/src/Shopee/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/byted/Main48.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main48.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/byted/Main65.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byted/Main65.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/others/Main6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/others/Main6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1797749113">
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="1569" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="1569" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/others/Main8.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="84" selection-start-line="84" selection-end-line="84" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -81,83 +40,16 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>四则</find>
-      <find>递增</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/others/Main.java" />
-        <option value="$PROJECT_DIR$/src/others/Main6.java" />
-        <option value="$PROJECT_DIR$/src/byted/Main48.java" />
-        <option value="$PROJECT_DIR$/src/byted/Main65.java" />
-        <option value="$PROJECT_DIR$/src/others/Main7.java" />
-        <option value="$PROJECT_DIR$/src/others/Main8.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
       <scroll-view-position x="0" y="0" />
     </layout>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="222" />
-    <option name="y" value="222" />
-    <option name="width" value="1579" />
-    <option name="height" value="955" />
-  </component>
   <component name="ProjectId" id="1f53VqWkpeTYb3DZ2C5rwjht5K9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="others" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="classification" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -171,38 +63,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Main7">
+  <component name="RunManager" selected="Application.Main9">
     <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="others.Main4" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="others.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main66" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="byted.Main66" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="byted.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,20 +116,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="others.Main9" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Main66" />
       <item itemvalue="Application.Main71" />
       <item itemvalue="Application.Main72" />
       <item itemvalue="Application.Main4" />
       <item itemvalue="Application.Main7" />
+      <item itemvalue="Application.Main9" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main9" />
         <item itemvalue="Application.Main7" />
         <item itemvalue="Application.Main4" />
         <item itemvalue="Application.Main72" />
         <item itemvalue="Application.Main71" />
-        <item itemvalue="Application.Main66" />
       </list>
     </recent_temporary>
   </component>
@@ -289,43 +169,6 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6715000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="70" y="0" width="1263" height="764" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.19866998" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.54833597" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33597463" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3280507" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="leetcode" order="4" side_tool="true" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" weight="0.32871014" />
-      <window_info anchor="right" id="Maven Projects" order="9" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
@@ -334,18 +177,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add summary in tuya Mac" />
@@ -360,8 +197,8 @@
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="443" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.801@0.23.1440.801" timestamp="1594694821602" />
-    <state width="1225" height="202" key="GridCell.Tab.0.bottom" timestamp="1595556008563">
-      <screen x="0" y="23" width="1440" height="814" />
+    <state width="1225" height="112" key="GridCell.Tab.0.bottom" timestamp="1596092775405">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state width="1225" height="197" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1594714709933" />
     <state width="1225" height="245" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1594693381283" />
@@ -372,8 +209,11 @@
     <state width="1225" height="326" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1595037044690" />
     <state width="1225" height="16" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1594979488548" />
     <state width="1225" height="199" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1594970682033" />
-    <state width="1225" height="202" key="GridCell.Tab.0.center" timestamp="1595556008562">
-      <screen x="0" y="23" width="1440" height="814" />
+    <state width="1225" height="160" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1596089066447" />
+    <state width="1225" height="160" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1596091874272" />
+    <state width="1225" height="112" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1596092775405" />
+    <state width="1225" height="112" key="GridCell.Tab.0.center" timestamp="1596092775404">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state width="1225" height="197" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1594714709932" />
     <state width="1225" height="245" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1594693381282" />
@@ -384,8 +224,11 @@
     <state width="1225" height="326" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1595037044689" />
     <state width="1225" height="16" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1594979488547" />
     <state width="1225" height="199" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1594970682032" />
-    <state width="1225" height="202" key="GridCell.Tab.0.left" timestamp="1595556008562">
-      <screen x="0" y="23" width="1440" height="814" />
+    <state width="1225" height="160" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1596089066446" />
+    <state width="1225" height="160" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1596091874270" />
+    <state width="1225" height="112" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1596092775404" />
+    <state width="1225" height="112" key="GridCell.Tab.0.left" timestamp="1596092775404">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state width="1225" height="197" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1594714709931" />
     <state width="1225" height="245" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1594693381281" />
@@ -396,8 +239,11 @@
     <state width="1225" height="326" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1595037044688" />
     <state width="1225" height="16" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1594979488546" />
     <state width="1225" height="199" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1594970682031" />
-    <state width="1225" height="202" key="GridCell.Tab.0.right" timestamp="1595556008563">
-      <screen x="0" y="23" width="1440" height="814" />
+    <state width="1225" height="160" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1596089066444" />
+    <state width="1225" height="160" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1596091874270" />
+    <state width="1225" height="112" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1596092775404" />
+    <state width="1225" height="112" key="GridCell.Tab.0.right" timestamp="1596092775405">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state width="1225" height="197" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1594714709932" />
     <state width="1225" height="245" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1594693381282" />
@@ -408,6 +254,25 @@
     <state width="1225" height="326" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1595037044689" />
     <state width="1225" height="16" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1594979488547" />
     <state width="1225" height="199" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1594970682032" />
+    <state width="1225" height="160" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1596089066447" />
+    <state width="1225" height="160" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1596091874272" />
+    <state width="1225" height="112" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1596092775405" />
+    <state width="1225" height="145" key="GridCell.Tab.1.bottom" timestamp="1596092691715">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1225" height="145" key="GridCell.Tab.1.bottom/0.23.1440.829@0.23.1440.829" timestamp="1596092691715" />
+    <state width="1225" height="145" key="GridCell.Tab.1.center" timestamp="1596092691715">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1225" height="145" key="GridCell.Tab.1.center/0.23.1440.829@0.23.1440.829" timestamp="1596092691715" />
+    <state width="1225" height="145" key="GridCell.Tab.1.left" timestamp="1596092691714">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1225" height="145" key="GridCell.Tab.1.left/0.23.1440.829@0.23.1440.829" timestamp="1596092691714" />
+    <state width="1225" height="145" key="GridCell.Tab.1.right" timestamp="1596092691715">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1225" height="145" key="GridCell.Tab.1.right/0.23.1440.829@0.23.1440.829" timestamp="1596092691715" />
     <state x="278" y="307" key="Vcs.Push.Dialog.v2" timestamp="1594690774775">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
@@ -425,63 +290,5 @@
     </state>
     <state x="322" y="151" width="670" height="674" key="search.everywhere.popup/0.23.1440.801@0.23.1440.801" timestamp="1594695925657" />
     <state x="322" y="151" width="670" height="676" key="search.everywhere.popup/0.23.1440.804@0.23.1440.804" timestamp="1594691121297" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/others/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/Main6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1171">
-          <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2010#2011#0" expanded="true" />
-            <element signature="e#2028#2029#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/byted/Main48.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/byted/Main65.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-758">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/Main7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <folding>
-            <element signature="e#319#337#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/Main8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
