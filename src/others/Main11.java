@@ -32,8 +32,8 @@ public class Main11 {
         if (n==4){
             if (s.length()==0){
                 res.add(path);
-                return;
             }
+            return;
         }
         // 每一层 选取当前的元素
         for (int i=1;i<4;i++){ // 1-3位数
@@ -42,13 +42,16 @@ public class Main11 {
             }
             String cur = s.substring(0,i);
             int c = new Integer(cur);
-            if (c>255 || i!=cur.length()){
+            if (c==0){
+                String next = path + cur+ (n==3?"":".");
+                help(n+1,s.substring(i),next,res);
+                break;
+            }
+            if (c>255){
                 break;
             }
             String next = path + cur+ (n==3?"":".");
             help(n+1,s.substring(i),next,res);
         }
-
     }
-
 }
