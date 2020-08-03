@@ -22,7 +22,6 @@ import trie.Trie2;
  * int prefixNumber(String pre)：返回以字符串pre为
  * 前缀的单词数量。
  *
- *
  */
 public class Main6 {
     public static void main(String[] args) {
@@ -36,7 +35,7 @@ public class Main6 {
         TrieNode[] children = new TrieNode[26];
         TrieNode(char c){
             this.c = c;
-            pass = 0;
+            pass = 1;
             end=0;
         }
     }
@@ -47,7 +46,7 @@ public class Main6 {
     void insert(String word){
         int i=0;
         int len = word.length();
-        TrieNode cur = root;
+        TrieNode cur = root; // 递归迭代器；
         while (i<len){
             TrieNode c =cur.children[i-'a'];
             if (c==null){

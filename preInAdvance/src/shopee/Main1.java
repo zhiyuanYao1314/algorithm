@@ -1,37 +1,32 @@
-package shopee;
+package Shopee;
 
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.Scanner;
-
-/**
- * 数组组成数字；
- */
 public class Main1 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        String ss = sc.nextLine();
-        int n = new Integer(ss);
-        Integer[] nums = new Integer[n];
-        String str = sc.nextLine();
-        String[] strs = str.split(",");
-        for (int i=0;i<n;i++){
-            nums[i] = new Integer(strs[i]);
-        }
-        // System.out.println(Arrays.toString(nums));
-        Arrays.sort(nums, new Comparator<Integer>() {
-            @Override
-            public int compare(Integer o1, Integer o2) {
-                return ((int)o2+""+(int)o1).compareTo((int)o1+""+(int)o2);
-            }
-        });
-        // System.out.println("-------");
-        // System.out.println(Arrays.toString(nums));
-        StringBuffer sb = new StringBuffer();
-        for (int i=0;i<n;i++){
-            sb.append(nums[i]);
-        }
-        System.out.println(sb.toString());
+
     }
 
+    public static class TreeNode{
+        int val;
+        TreeNode left;
+        TreeNode right;
+        TreeNode(int val){
+            this.val = val;
+        }
+    }
+    // 判断对称二叉树
+    boolean isSym(TreeNode root){
+        if (root==null)
+            return true;
+        if (root.left==null && root.right==null)
+            return true;
+        if (root.left==null || root.right==null)
+            return false;
+        boolean leftIs = isSym(root.left);
+        boolean rightIs = isSym(root.right);
+        if (leftIs && rightIs && root.left.val==root.right.val){
+            return true;
+        }else {
+            return false;
+        }
+    }
 }
