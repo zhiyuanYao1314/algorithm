@@ -1,30 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3e775ac-7fc7-4e86-930e-da2b60bc755e" name="Default Changelist" comment="add summary in tuya Mac">
-      <change afterPath="$PROJECT_DIR$/preInAdvance/src/猿辅导/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/preInAdvance/src/猿辅导/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/preInAdvance/src/雷火/Main1.java" afterDir="false" />
+    <list default="true" id="2c1cec6e-b51b-4ecb-bce9-51ed70d1e1dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kuaishou/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kuaishou/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kuaishou/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kuaishou/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kuaishou/Main4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preInAdvance/src/Shopee/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/preInAdvance/src/Shopee/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/bishi/Main0.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/bishi/Main0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/others/Main12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/others/Main12.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,34 +20,35 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< HEAD
   <component name="FUSProjectUsageTrigger">
     <session id="1797749113">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="9" />
+          <entry key="java" value="13" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="13" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1596" />
+          <entry key="java" value="2114" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1596" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="JAVA" value="2114" />
         </counts>
       </usages-collector>
     </session>
@@ -68,59 +56,103 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/others/Main8.java">
+        <entry file="file://$PROJECT_DIR$/src/kuaishou/Main1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="80" column="17" lean-forward="true" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
+            <state relative-caret-position="196">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/preInAdvance/src/猿辅导/Main2.java">
+        <entry file="file://$PROJECT_DIR$/src/kuaishou/Main2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/preInAdvance/src/猿辅导/Main1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            <state relative-caret-position="784">
+              <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
               <folding>
-                <element signature="e#670#671#0" expanded="true" />
-                <element signature="e#722#723#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/preInAdvance/src/雷火/Main1.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kuaishou/Main3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            <state relative-caret-position="168">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kuaishou/Main4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BlockingQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="66" column="12" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Singleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kuaishou/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+              <folding>
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/others/Main.java" />
-        <option value="$PROJECT_DIR$/src/others/Main6.java" />
-        <option value="$PROJECT_DIR$/src/byted/Main48.java" />
-        <option value="$PROJECT_DIR$/src/byted/Main65.java" />
-        <option value="$PROJECT_DIR$/src/others/Main7.java" />
-        <option value="$PROJECT_DIR$/src/others/Main8.java" />
-        <option value="$PROJECT_DIR$/preInAdvance/src/猿辅导/Main2.java" />
-        <option value="$PROJECT_DIR$/preInAdvance/src/猿辅导/Main1.java" />
-        <option value="$PROJECT_DIR$/preInAdvance/src/雷火/Main1.java" />
+        <option value="$PROJECT_DIR$/preInAdvance/src/ali/Main1.java" />
+        <option value="$PROJECT_DIR$/preInAdvance/src/ali/Main2.java" />
+        <option value="$PROJECT_DIR$/preInAdvance/src/zhoucongAli/Main1.java" />
+        <option value="$PROJECT_DIR$/preInAdvance/src/zhoucongAli/Main3.java" />
+        <option value="$PROJECT_DIR$/preInAdvance/src/zhoucongAli/Main4.java" />
+        <option value="$PROJECT_DIR$/preInAdvance/src/zhoucongAli/Main2.java" />
+        <option value="$PROJECT_DIR$/src/kuaishou/Main1.java" />
+        <option value="$PROJECT_DIR$/src/kuaishou/Main2.java" />
+        <option value="$PROJECT_DIR$/src/kuaishou/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/kuaishou/Main3.java" />
+        <option value="$PROJECT_DIR$/src/kuaishou/Main4.java" />
+        <option value="$PROJECT_DIR$/src/BlockingQueue.java" />
+        <option value="$PROJECT_DIR$/src/Singleton.java" />
       </list>
     </option>
   </component>
@@ -130,26 +162,20 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="JsbtTreeLayoutManager">
-    <layout place="tools.popupGrunt">
-      <scroll-view-position x="0" y="0" />
-    </layout>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="133" />
+    <option name="y" value="31" />
+    <option name="width" value="1554" />
+    <option name="height" value="925" />
   </component>
-<<<<<<< HEAD
-  <component name="ProjectFrameBounds">
-    <option name="x" value="296" />
-    <option name="width" value="1580" />
-    <option name="height" value="955" />
-  </component>
-  <component name="ProjectId" id="1f53VqWkpeTYb3DZ2C5rwjht5K9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,59 +188,37 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="bishi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="classification" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="preInAdvance" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="preInAdvance" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
-=======
-  <component name="ProjectId" id="1f53VqWkpeTYb3DZ2C5rwjht5K9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
->>>>>>> 9d8255be8e712b06f7fb8f4a18104ebb2e7a4002
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596363159932" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596549291009" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.Main12">
-    <configuration name="Main11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="others.Main11" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kuaishou.Main2" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="others.*" />
+          <option name="PATTERN" value="kuaishou.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,72 +226,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="others.Main12" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="others.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="others.Main4" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="others.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="others.Main7" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="others.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="others.Main9" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="others.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Main4" />
-      <item itemvalue="Application.Main7" />
-      <item itemvalue="Application.Main9" />
-      <item itemvalue="Application.Main11" />
-      <item itemvalue="Application.Main12" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main12" />
-        <item itemvalue="Application.Main11" />
-        <item itemvalue="Application.Main9" />
-        <item itemvalue="Application.Main7" />
-        <item itemvalue="Application.Main4" />
+        <item itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
@@ -295,35 +236,25 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task id="LOCAL-00001" summary="add summary in tuya Mac">
-      <created>1594690768588</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1594690768588</updated>
-    </task>
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c3e775ac-7fc7-4e86-930e-da2b60bc755e" name="Default Changelist" comment="add summary in tuya Mac" />
-      <created>1594773756431</created>
+      <changelist id="2c1cec6e-b51b-4ecb-bce9-51ed70d1e1dc" name="Default Changelist" comment="" />
+      <created>1596474271931</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1594773756431</updated>
-      <workItem from="1594773757611" duration="71000" />
-      <workItem from="1595494156255" duration="4208000" />
-      <workItem from="1596362835443" duration="504000" />
+      <updated>1596474271931</updated>
+      <workItem from="1596474273248" duration="4587000" />
+      <workItem from="1596546498426" duration="2454000" />
     </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-<<<<<<< HEAD
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7847000" />
+    <option name="totallyTimeSpent" value="7041000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="237" y="0" width="1264" height="764" extended-state="0" />
+    <frame x="107" y="25" width="1243" height="740" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20099668" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23245984" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -332,244 +263,144 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.54833597" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.072487645" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33597463" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3280507" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.35749587" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.21581548" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="leetcode" order="4" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" weight="0.32871014" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Maven Projects" order="9" />
     </layout>
   </component>
-=======
->>>>>>> 9d8255be8e712b06f7fb8f4a18104ebb2e7a4002
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="add summary in tuya Mac" />
-    <option name="LAST_COMMIT_MESSAGE" value="add summary in tuya Mac" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="0" y="256" key="#com.intellij.ide.util.MemberChooser" timestamp="1594804273835">
-      <screen x="0" y="23" width="1440" height="806" />
-    </state>
-    <state x="0" y="256" key="#com.intellij.ide.util.MemberChooser/0.23.1440.806@0.23.1440.806" timestamp="1594804273835" />
-    <state x="443" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594694821602">
-      <screen x="0" y="23" width="1440" height="801" />
-    </state>
-    <state x="443" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.801@0.23.1440.801" timestamp="1594694821602" />
-    <state width="1225" height="270" key="GridCell.Tab.0.bottom" timestamp="1596342680428">
-      <screen x="0" y="23" width="1440" height="823" />
-    </state>
-    <state width="1225" height="197" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1594714709933" />
-    <state width="1225" height="245" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1594693381283" />
-    <state width="1225" height="306" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1594820626154" />
-    <state width="1225" height="234" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1594806014736" />
-    <state width="1225" height="159" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1594807053412" />
-    <state width="1225" height="202" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1595556008563" />
-    <state width="1225" height="326" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1595037044690" />
-    <state width="1225" height="16" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1594979488548" />
-    <state width="1225" height="314" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1596247017331" />
-    <state width="1225" height="270" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1596342680428" />
-    <state width="1225" height="187" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1596249771961" />
-    <state width="1225" height="167" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1596252627426" />
-    <state width="1225" height="160" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1596091874272" />
-    <state width="1225" height="112" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1596092775405" />
-    <state width="1225" height="270" key="GridCell.Tab.0.center" timestamp="1596342680426">
-      <screen x="0" y="23" width="1440" height="823" />
-    </state>
-    <state width="1225" height="197" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1594714709932" />
-    <state width="1225" height="245" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1594693381282" />
-    <state width="1225" height="306" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1594820626153" />
-    <state width="1225" height="234" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1594806014735" />
-    <state width="1225" height="159" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1594807053411" />
-    <state width="1225" height="202" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1595556008562" />
-    <state width="1225" height="326" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1595037044689" />
-    <state width="1225" height="16" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1594979488547" />
-    <state width="1225" height="314" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1596247017330" />
-    <state width="1225" height="270" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1596342680426" />
-    <state width="1225" height="187" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1596249771960" />
-    <state width="1225" height="167" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1596252627425" />
-    <state width="1225" height="160" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1596091874270" />
-    <state width="1225" height="112" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1596092775404" />
-    <state width="1225" height="270" key="GridCell.Tab.0.left" timestamp="1596342680425">
-      <screen x="0" y="23" width="1440" height="823" />
-    </state>
-    <state width="1225" height="197" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1594714709931" />
-    <state width="1225" height="245" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1594693381281" />
-    <state width="1225" height="306" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1594820626152" />
-    <state width="1225" height="234" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1594806014735" />
-    <state width="1225" height="159" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1594807053410" />
-    <state width="1225" height="202" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1595556008562" />
-    <state width="1225" height="326" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1595037044688" />
-    <state width="1225" height="16" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1594979488546" />
-    <state width="1225" height="314" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1596247017329" />
-    <state width="1225" height="270" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1596342680425" />
-    <state width="1225" height="187" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1596249771959" />
-    <state width="1225" height="167" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1596252627425" />
-    <state width="1225" height="160" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1596091874270" />
-    <state width="1225" height="112" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1596092775404" />
-    <state width="1225" height="270" key="GridCell.Tab.0.right" timestamp="1596342680427">
-      <screen x="0" y="23" width="1440" height="823" />
-    </state>
-    <state width="1225" height="197" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1594714709932" />
-    <state width="1225" height="245" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1594693381282" />
-    <state width="1225" height="306" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1594820626154" />
-    <state width="1225" height="234" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1594806014736" />
-    <state width="1225" height="159" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1594807053411" />
-    <state width="1225" height="202" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1595556008563" />
-    <state width="1225" height="326" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1595037044689" />
-    <state width="1225" height="16" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1594979488547" />
-    <state width="1225" height="314" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1596247017331" />
-    <state width="1225" height="270" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1596342680427" />
-    <state width="1225" height="187" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1596249771960" />
-    <state width="1225" height="167" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1596252627426" />
-    <state width="1225" height="160" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1596091874272" />
-    <state width="1225" height="112" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1596092775405" />
-    <state width="1225" height="145" key="GridCell.Tab.1.bottom" timestamp="1596092691715">
-      <screen x="0" y="23" width="1440" height="829" />
-    </state>
-    <state width="1225" height="145" key="GridCell.Tab.1.bottom/0.23.1440.829@0.23.1440.829" timestamp="1596092691715" />
-    <state width="1225" height="145" key="GridCell.Tab.1.center" timestamp="1596092691715">
-      <screen x="0" y="23" width="1440" height="829" />
-    </state>
-    <state width="1225" height="145" key="GridCell.Tab.1.center/0.23.1440.829@0.23.1440.829" timestamp="1596092691715" />
-    <state width="1225" height="145" key="GridCell.Tab.1.left" timestamp="1596092691714">
-      <screen x="0" y="23" width="1440" height="829" />
-    </state>
-    <state width="1225" height="145" key="GridCell.Tab.1.left/0.23.1440.829@0.23.1440.829" timestamp="1596092691714" />
-    <state width="1225" height="145" key="GridCell.Tab.1.right" timestamp="1596092691715">
-      <screen x="0" y="23" width="1440" height="829" />
-    </state>
-    <state width="1225" height="145" key="GridCell.Tab.1.right/0.23.1440.829@0.23.1440.829" timestamp="1596092691715" />
-    <state x="278" y="307" key="Vcs.Push.Dialog.v2" timestamp="1594690774775">
-      <screen x="0" y="23" width="1440" height="804" />
-    </state>
-    <state x="278" y="307" key="Vcs.Push.Dialog.v2/0.23.1440.804@0.23.1440.804" timestamp="1594690774775" />
-    <state x="484" y="339" width="598" height="490" key="find.popup" timestamp="1594805143935">
-      <screen x="0" y="23" width="1440" height="806" />
-    </state>
-    <state x="484" y="339" width="598" height="490" key="find.popup/0.23.1440.806@0.23.1440.806" timestamp="1594805143935" />
-    <state x="517" y="447" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1594692640143">
-      <screen x="0" y="23" width="1440" height="801" />
-    </state>
-    <state x="517" y="447" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.23.1440.801@0.23.1440.801" timestamp="1594692640143" />
-    <state x="322" y="151" width="670" height="674" key="search.everywhere.popup" timestamp="1594695925657">
-      <screen x="0" y="23" width="1440" height="801" />
-    </state>
-    <state x="322" y="151" width="670" height="674" key="search.everywhere.popup/0.23.1440.801@0.23.1440.801" timestamp="1594695925657" />
-    <state x="322" y="151" width="670" height="676" key="search.everywhere.popup/0.23.1440.804@0.23.1440.804" timestamp="1594691121297" />
-  </component>
-<<<<<<< HEAD
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/others/Main.java">
+    <entry file="file://$PROJECT_DIR$/preInAdvance/src/ali/Main2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        <state relative-caret-position="280">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/Main6.java">
+    <entry file="file://$PROJECT_DIR$/preInAdvance/src/ali/Main1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1171">
-          <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
+        <state relative-caret-position="140">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2010#2011#0" expanded="true" />
-            <element signature="e#2028#2029#0" expanded="true" />
+            <element signature="e#1446#1447#0" expanded="true" />
+            <element signature="e#1543#1544#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/byted/Main48.java">
+    <entry file="file://$PROJECT_DIR$/preInAdvance/src/zhoucongAli/Main3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="280">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preInAdvance/src/zhoucongAli/Main4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="63" column="1" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#760#761#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/byted/Main65.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-758">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/Main7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/Main8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="80" column="17" lean-forward="true" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preInAdvance/src/猿辅导/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preInAdvance/src/猿辅导/Main1.java">
+    <entry file="file://$PROJECT_DIR$/preInAdvance/src/zhoucongAli/Main2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preInAdvance/src/zhoucongAli/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kuaishou/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
           <folding>
-            <element signature="e#670#671#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preInAdvance/src/雷火/Main1.java">
+    <entry file="file://$PROJECT_DIR$/src/kuaishou/Main1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kuaishou/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kuaishou/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kuaishou/Main4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="66" column="12" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
         </state>
       </provider>
     </entry>
   </component>
-=======
->>>>>>> 9d8255be8e712b06f7fb8f4a18104ebb2e7a4002
 </project>
