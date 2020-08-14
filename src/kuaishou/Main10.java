@@ -5,11 +5,9 @@ import java.util.*;
 /**
  * Author:yaozhiyuan0117@163.com
  * Time:2020/8/9 16:50
- *
  * z子型 层序遍历
  */
 public class Main10 {
-
     void getZ(TreeNode node){
         Deque<TreeNode> queue = new ArrayDeque<>();
         queue.addLast(node);
@@ -19,17 +17,19 @@ public class Main10 {
             int sz = queue.size();
             List<Integer> list = new ArrayList<>();
             while (sz>0){
-
                 TreeNode cur = queue.pollFirst();
-                // list.add(cur);
+                list.add(cur.val);
+                if (cur.left!=null)
+                    queue.addLast(cur.left);
+                if (cur.right!=null)
+                    queue.addLast(cur.right);
                 sz--;
             }
             if (isReverse){
                 Collections.reverse(list);
             }
             isReverse = !isReverse;
-
-
+            ans.add(list);
         }
     }
 
