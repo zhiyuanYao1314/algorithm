@@ -20,18 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10607c54-35e5-44a9-96c1-e5ca4dc777ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/preInAdvance/src/pdd/Main5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/preInAdvance/src/pdd/Main6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/others/Main14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/others/Main15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/kuaishou/Main4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/kuaishou/Main4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kuaishou/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kuaishou/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Go/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/others/Main15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/others/Main15.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="RunManager">
@@ -62,5 +65,31 @@
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="997" height="149" key="GridCell.Tab.0.bottom" timestamp="1597394257242">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="997" height="149" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1597394257242" />
+    <state width="997" height="149" key="GridCell.Tab.0.center" timestamp="1597394257242">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="997" height="149" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1597394257242" />
+    <state width="997" height="149" key="GridCell.Tab.0.left" timestamp="1597394257241">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="997" height="149" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1597394257241" />
+    <state width="997" height="149" key="GridCell.Tab.0.right" timestamp="1597394257242">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="997" height="149" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1597394257242" />
+    <state x="340" y="260" key="MultipleFileMergeDialog" timestamp="1597393174515">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="340" y="260" key="MultipleFileMergeDialog/0.23.1440.822@0.23.1440.822" timestamp="1597393174515" />
+    <state x="481" y="343" key="git4idea.ui.GitUnstashDialog" timestamp="1597393174742">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="481" y="343" key="git4idea.ui.GitUnstashDialog/0.23.1440.822@0.23.1440.822" timestamp="1597393174742" />
   </component>
 </project>
