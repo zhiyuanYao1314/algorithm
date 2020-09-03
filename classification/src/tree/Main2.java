@@ -21,7 +21,7 @@ public class Main2 {
 
     int[] pre;
     int[] in;
-    // 人总是希望自己为认可， 关键还是提升自己的能力。
+    // 人总是希望自己被认可， 关键还是提升自己的能力。
     public TreeNode reCon(int preL, int preR, int inL, int inR){
         if (preL>preR) return null;
         TreeNode root = new TreeNode(pre[preL]);

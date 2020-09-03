@@ -72,6 +72,8 @@ public class UnionFind<T> {
         if (findParent(t1)==findParent(t2))
             return;
         // 3. 父不一样
+        t1 = findParent(t1);
+        t2 = findParent(t2);
         int c1 = counts.get(t1);
         int c2 = counts.get(t2);
         T cSmall = c1>c2?t2:t1;
